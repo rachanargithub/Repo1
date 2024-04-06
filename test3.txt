@@ -1,13 +1,1 @@
- Volume in drive C is Windows
- Volume Serial Number is 9028-4AB5
-
- Directory of C:\Users\Rachana\OneDrive\Desktop\GithubProject
-
-04/05/2024  04:01 PM    <DIR>          .
-04/05/2024  04:01 PM    <DIR>          ..
-04/05/2024  03:55 PM                33 index.html
-04/05/2024  04:00 PM                10 test1.txt
-04/05/2024  03:57 PM                 7 test2.txt
-04/05/2024  04:01 PM                 0 test3.txt
-               4 File(s)             50 bytes
-               2 Dir(s)  21,568,573,440 bytes free
+chnages 1
